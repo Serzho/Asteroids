@@ -1,0 +1,48 @@
+﻿  main.cpp
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(45): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(46): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(49): warning C4305: -=: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(50): warning C4305: +=: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(51): warning C4305: -=: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(52): warning C4305: +=: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(57): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(85): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(86): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(130): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(131): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(132): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(133): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(134): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(135): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(136): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(137): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(138): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(139): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(143): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(144): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(153): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(165): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(167): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(250): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(251): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(271): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(272): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(316): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(332): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(346): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(347): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(348): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(349): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(350): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(351): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\kvos\desktop\c++\asteroid\asteroid\main.cpp(359): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     Создается библиотека C:\Users\kvos\Desktop\C++\Asteroid\Release\Asteroid.lib и объект C:\Users\kvos\Desktop\C++\Asteroid\Release\Asteroid.exp
+  Создание кода
+  14 of 102 functions (13.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Asteroid.vcxproj -> C:\Users\kvos\Desktop\C++\Asteroid\Release\Asteroid.exe
